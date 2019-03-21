@@ -1,0 +1,6 @@
+/Users/tuahivaatetonohiti/Projects/LCS/LCS/bin/Debug/LCS.exe
+/Users/tuahivaatetonohiti/Projects/LCS/LCS/bin/Debug/LCS.pdb
+/Users/tuahivaatetonohiti/Projects/LCS/LCS/obj/x86/Debug/LCS.csprojAssemblyReference.cache
+/Users/tuahivaatetonohiti/Projects/LCS/LCS/obj/x86/Debug/LCS.csproj.CoreCompileInputs.cache
+/Users/tuahivaatetonohiti/Projects/LCS/LCS/obj/x86/Debug/LCS.exe
+/Users/tuahivaatetonohiti/Projects/LCS/LCS/obj/x86/Debug/LCS.pdb
